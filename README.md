@@ -4,7 +4,7 @@ A big data analytics project done for the module ICT 2107 (Distributed Systems P
 This project aims to showcase the use of big data analytics in solving real-world problems. The project was done as a part of the ICT 2107 module, which focuses on Distributed Systems Programming.
 
 ## Getting started
-To get started with this project, you may refer to [running instruction](https://github.com/FS75/ICT2107_BigDataAnalytics/blob/main/Group02/Running_Instruction.pdf). To take a look at our visualization you may proceed [here](https://github.com/FS75/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataVisualization). The pbix files contain a PowerBI file that requires the use of PowerBI to open while the pdf containing a brief look at how the visualization looks.
+To get started with this project, you may refer to [running instruction](https://github.com/brucewzj99/ICT2107_BigDataAnalytics/blob/main/Group02/Running_Instruction.pdf). To take a look at our visualization you may proceed [here](https://github.com/brucewzj99/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataVisualization). The pbix files contain a PowerBI file that requires the use of PowerBI to open while the pdf containing a brief look at how the visualization looks.
 ![image](https://user-images.githubusercontent.com/24997286/230725677-4ab06832-cca7-4fca-b10a-94fe7e825085.png)
 
 
@@ -21,9 +21,9 @@ This project consists of the following folders:
 
 ### `Dataset_used` folder
   - `AnalysisOutput`: Folder containing all the analysis output that were used in PowerBI for visualization
-  - `CleanDataset`: Folder containing ReviewsDataset that has been clean using [DataCleaning/dataCleaner.py](https://github.com/FS75/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataCleaning)
-  - `ProcessedDataset`: Folder containing CleanDataset which has been processed using [DataCleaning/preprocess_reviews.py](https://github.com/FS75/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataCleaning)
-  - `ReviewsDataset`: Folder containing scrape reviews dataset from various company obtained through [DataScraping/](https://github.com/FS75/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataScraping) 
+  - `CleanDataset`: Folder containing ReviewsDataset that has been clean using [DataCleaning/dataCleaner.py](https://github.com/brucewzj99/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataCleaning)
+  - `ProcessedDataset`: Folder containing CleanDataset which has been processed using [DataCleaning/preprocess_reviews.py](https://github.com/brucewzj99/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataCleaning)
+  - `ReviewsDataset`: Folder containing scrape reviews dataset from various company obtained through [DataScraping/](https://github.com/brucewzj99/ICT2107_BigDataAnalytics/tree/main/Group02/Source_code/DataScraping) 
   - `AFINN-111.txt`: A text file containing sentiment values tagged to each words
   - `company-industry.txt`: A text file containing the company-to-industry relationship
   - `stopwords.txt`: A text file containing stop words to skip for analysis
